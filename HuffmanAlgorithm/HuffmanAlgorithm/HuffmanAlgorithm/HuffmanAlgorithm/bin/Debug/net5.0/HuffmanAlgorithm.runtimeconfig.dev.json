@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\micAE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\micAE\\.nuget\\packages"
+    ]
+  }
+}

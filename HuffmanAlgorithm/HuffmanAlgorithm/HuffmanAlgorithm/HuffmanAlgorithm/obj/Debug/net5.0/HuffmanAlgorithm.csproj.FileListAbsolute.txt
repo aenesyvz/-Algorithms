@@ -1,0 +1,16 @@
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.exe
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.deps.json
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.runtimeconfig.json
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.runtimeconfig.dev.json
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.dll
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\ref\HuffmanAlgorithm.dll
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\net5.0\HuffmanAlgorithm.pdb
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.csproj.AssemblyReference.cache
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.AssemblyInfoInputs.cache
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.AssemblyInfo.cs
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.csproj.CoreCompileInputs.cache
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.dll
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\ref\HuffmanAlgorithm.dll
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.pdb
+D:\HuffmanAlgorithm\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\net5.0\HuffmanAlgorithm.genruntimeconfig.cache
