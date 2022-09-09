@@ -1,0 +1,16 @@
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.exe
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.deps.json
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.runtimeconfig.json
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.runtimeconfig.dev.json
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.dll
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\ref\Algorithms1.dll
+D:\Algorithms1\Algorithms1\bin\Debug\net5.0\Algorithms1.pdb
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.csproj.AssemblyReference.cache
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.AssemblyInfoInputs.cache
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.AssemblyInfo.cs
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.csproj.CoreCompileInputs.cache
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.dll
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\ref\Algorithms1.dll
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.pdb
+D:\Algorithms1\Algorithms1\obj\Debug\net5.0\Algorithms1.genruntimeconfig.cache
