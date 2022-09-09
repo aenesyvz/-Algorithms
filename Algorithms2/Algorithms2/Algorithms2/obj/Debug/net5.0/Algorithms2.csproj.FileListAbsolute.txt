@@ -1,0 +1,16 @@
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.exe
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.deps.json
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.runtimeconfig.json
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.runtimeconfig.dev.json
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.dll
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\ref\Algorithms2.dll
+D:\Algorithms2\Algorithms2\bin\Debug\net5.0\Algorithms2.pdb
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.csproj.AssemblyReference.cache
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.AssemblyInfoInputs.cache
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.AssemblyInfo.cs
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.csproj.CoreCompileInputs.cache
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.dll
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\ref\Algorithms2.dll
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.pdb
+D:\Algorithms2\Algorithms2\obj\Debug\net5.0\Algorithms2.genruntimeconfig.cache
